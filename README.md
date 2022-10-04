@@ -3,6 +3,8 @@ Automation_Hydrogen_Charges
 
 we present the equipment and techniques developed by our group: after the classical volumetric systems, we addressed the problem of volumetric changes by building a novel coaxial capacitive system. This system measures the volume and porosity of a small amount of free hydride powder as a function of hydrogen content, after applying a complex deconvolution algorithm on the primary AC electric measurements. 
 
+LANGUAGES: LabVIEW
+
 https://doi.org/10.1016/j.ijhydene.2015.08.063
 
 http://hdl.handle.net/10.1016/j.ctmat.2017.01.002
