@@ -5,6 +5,10 @@ we present the equipment and techniques developed by our group: after the classi
 
 LANGUAGES: LabVIEW
 
+Ribeiro, E.D.S., 2016. Método e instrumentação de caracterização de materiais sólidos aplicáveis no armazenamento de hidrogénio (Doctoral dissertation).
+
+URI: http://hdl.handle.net/10316/29604
+
 https://doi.org/10.1016/j.ijhydene.2015.08.063
 
 http://hdl.handle.net/10.1016/j.ctmat.2017.01.002
